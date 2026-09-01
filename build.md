@@ -27,36 +27,38 @@
 |MXスイッチ用Kailh PCBソケット|37||
 |1N4148 ダイオード(SMDタイプ)|37||
 |LED SK6812MINI-E|34|なくてもキーボードは動作します|
-|M2ネジ　3mm|11|※|
-|M2ネジ　3mm|4|※|
-|M2ネジ　5mm|9|※|
+|M2ネジ　3mm|11|※1|
+|M2ネジ　3mm|4|※1|
+|M2ネジ　5mm|9|※1|
 |M2ナット|2|3mm程度のスペーサーでも代用可|
 |M2スペーサー　3mm|4||
 |M2スペーサー　12mm|7||
 |CherryMX互換キースイッチ|37||
 |CherryMX互換キーキャップ|37||
 |25mm径トラックボール|1||
-|PMW3610ブレイクアウト基板（PMW3610+レンズつき）|1||
+|PMW3610ブレイクアウト基板（PMW3610+レンズつき）|1|※2|
 
-※ 遊舎工房で取り扱っている「スリムヘッド小ねじ」が、頭部分が薄くて仕上がりが良いのでおすすめです。
+※1 遊舎工房で取り扱っている「スリムヘッド小ねじ」が、頭部分が薄くて仕上がりが良いのでおすすめです。
+
+※2 [zzz-kbdさん](https://booth.pm/ja/items/7066618)のboothから購入できます。
 
 - PCB基板
-<img src="images/PXL_20251222_074007279.jpg" width="80%" />
+<img src="images/PXL_20260827_032904222.jpg" width="80%" />
 
 - スイッチプレート
-<img src="images/PXL_20251222_074046278.jpg" width="80%" />
+<img src="images/PXL_20260827_032836966.jpg" width="80%" />
 
 - ボトムプレート
-<img src="images/PXL_20251222_074205728.jpg" width="80%" />
+<img src="images/PXL_20260827_032939281.jpg" width="80%" />
 
 - アクリルプレート・トップ
-<img src="images/PXL_20251222_074104322.jpg" width="80%" />
+<img src="images/PXL_20260827_090544712.jpg" width="80%" />
 
 - アクリルプレート・ミドルA
-<img src="images/PXL_20251222_074144539.jpg" width="80%" />
+<img src="images/PXL_20260827_090627589.jpg" width="80%" />
 
 - アクリルプレート・ミドルB
-<img src="images/PXL_20251222_074121320.jpg" width="80%" />
+<img src="images/PXL_20260827_090605333.jpg" width="80%" />
 
 - RP2040-Core-A
 
