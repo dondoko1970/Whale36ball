@@ -1,7 +1,7 @@
 # Whale36ball
 自設計キーボード「Whale36ball」
 
-<img src="images/PXL_20260101_023301053.jpg" width="80%" />
+<img src="images/PXL_20260830_002756711.jpg" width="80%" />
 
 ### 特徴
 - カラムスタッガード配列、36キーのコンパクトな自作キーボード。
