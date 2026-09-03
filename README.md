@@ -1,5 +1,5 @@
 # Whale36ball
-自設計キーボード「Whale36ball」
+《ガスケット構造・トラックボール・自作キーボード》「Whale36ball」
 
 <img src="images/PXL_20260830_002756711.jpg" width="80%" />
 
